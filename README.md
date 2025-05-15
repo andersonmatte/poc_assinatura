@@ -26,6 +26,11 @@ A biblioteca `signature` permite criar uma área interativa onde o usuário pode
 
 ---
 
+
+![alt text](https://github.com/andersonmatte/poc_assinatura/blob/master/assets/prints/print1.png)
+![alt text](https://github.com/andersonmatte/poc_assinatura/blob/master/assets/prints/print2.png)
+![alt text](https://github.com/andersonmatte/poc_assinatura/blob/master/assets/prints/print3.png)
+
 ## Como usar
 
 1. Adicione a dependência no seu `pubspec.yaml`:
@@ -34,6 +39,3 @@ A biblioteca `signature` permite criar uma área interativa onde o usuário pode
 dependencies:
   signature: ^6.0.0
 
-![alt text](https://github.com/andersonmatte/poc_assinatura/blob/master/assets/prints/print1.png)
-![alt text](https://github.com/andersonmatte/poc_assinatura/blob/master/assets/prints/print2.png)
-![alt text](https://github.com/andersonmatte/poc_assinatura/blob/master/assets/prints/print3.png)
