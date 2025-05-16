@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'signature_screen.dart'; // certifique-se de ter este arquivo
+import 'signature_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
